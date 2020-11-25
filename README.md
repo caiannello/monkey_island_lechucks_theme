@@ -1,5 +1,5 @@
 ```
-   Secret of Monkey Island - LeChuck's Theme 
+   The Secret of Monkey Island - LeChuck's Theme 
    
    Original music from the classic LucasFilm Game
       
