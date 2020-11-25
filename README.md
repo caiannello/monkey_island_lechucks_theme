@@ -1,6 +1,8 @@
 ```
    Secret of Monkey Island - LeChuck's Theme 
    
+   Original music from the classic LucasFilm Game
+      
    Adapted to Arduino from PC speaker version by 
    Craig Iannello (caiannello AT google mail) 
    2020-11-24
