@@ -1,5 +1,5 @@
 /*
-   Secret of Monkey Island - LeChuck's Theme 
+   The Secret of Monkey Island - LeChuck's Theme 
    (PC Speaker Version)
    
    Adapted to Arduino by Craig Iannello (caiannello AT google mail) 
