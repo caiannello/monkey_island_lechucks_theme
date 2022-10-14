@@ -12,6 +12,14 @@
    https://www.youtube.com/watch?v=UGym8xQp7Hc
    
    To play, hook a piezo speaker between ground
-   and pin 8 on your Arduino. (Tested on a Nano)
+   and pin 8 on your Arduino, and run the .ino 
+   file. (Tested on a Nano)
+   
+   Note: The .INO file is the version for use on
+   any Arduino. 
+   
+   The .CPP file is a version for ATtiny85 which
+   doesnt need the arduino library.
+   
    
 ```
