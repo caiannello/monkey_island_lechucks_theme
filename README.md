@@ -3,8 +3,8 @@
    
    Original music from the classic LucasFilm Game
    Composed by Michael Z. Land
-   -----------------------------------------------
-   ARDUINO BEEPER VERSION:
+--------------------------------------------------
+   *** ARDUINO BEEPER VERSION:
    
    Adapted to Arduino from PC speaker version by 
    Craig Iannello (caiannello AT google mail) 
@@ -16,8 +16,8 @@
    
    Original song on youtube:
    https://www.youtube.com/watch?v=UGym8xQp7Hc   
-   -----------------------------------------------
-   ATTINY BEEPER VERSION:
+--------------------------------------------------
+   *** TINY BEEPER VERSION:
    
    Note: The .C file is a separate, standalone
    version, specifically for a little ATtiny85. 
@@ -25,8 +25,8 @@
 
    Demo of this version on youtube:
    https://www.youtube.com/watch?v=ET6V49l4CsY
-   ---------------------------------------------
-   OPL3 VERSION:  (For an Arduino MEGA2560 
+------------------------------------------------
+   *** OPL3 VERSION:  (For an Arduino MEGA2560 
                         and a YMF262-M)
 
    YMF262 PIN     ATMEGA2560 PIN
@@ -41,5 +41,6 @@
    /rst           PORTJ.0
    
    Similar version to this one on youtube:
-   https://www.youtube.com/watch?v=wUJ-r6xru18     
+   https://www.youtube.com/watch?v=wUJ-r6xru18
+------------------------------------------------
 ```
