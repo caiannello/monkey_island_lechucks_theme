@@ -26,7 +26,7 @@
    Demo of this version on youtube:
    https://www.youtube.com/watch?v=ET6V49l4CsY
 ------------------------------------------------
-   *** NEW OPL3 VERSION:  (For an Arduino UNO
+   *** OPL3 VERSION:  (For an Arduino UNO
                            and a YMF262-M)
 
    YMF262 PIN     ARDUINO UNO PIN
@@ -39,27 +39,13 @@
    D5             D7
    D6             D8
    D7             D9
+   /rst           D10
    /irq           D14
    a0             D15
    a1             D16
    /wr            D17
    /rd            D18
    /cs            D19
-   /rst           /RST
-------------------------------------------------
-   *** OLD OPL3 VERSION:  (For an Arduino MEGA 
-                           2560 and a YMF262-M)
-
-   YMF262 PIN     ATMEGA2560 PIN
-   ----------     --------------
-   D0...D7        PORTA.0...7
-   /irq           PORTD.0  (unused)
-   /rd            PORTD.1  (unused)
-   /wr            PORTD.2
-   a1             PORTD.3  (unused)
-   a0             PORTH.0
-   /cs            PORTH.1
-   /rst           PORTJ.0
    
    Similar version to this one on youtube:
    https://www.youtube.com/watch?v=wUJ-r6xru18
