@@ -26,11 +26,11 @@
    Demo of this version on youtube:
    https://www.youtube.com/watch?v=ET6V49l4CsY
 ------------------------------------------------
-   *** OPL3 VERSION:  (For an Arduino UNO
-                           and a YMF262-M)
+   *** OPL3 VERSION:  ( For an Arduino UNO or
+                        Nano and a YMF262-M)
 
-   YMF262 PIN     ARDUINO UNO PIN
-   ----------     --------------
+   YMF262 PIN     ARDUINO PIN
+   ----------     -----------
    D0             D2
    D1             D3
    D2             D4
@@ -57,5 +57,5 @@
 
       YMF262-M OPL3 module + DAC + amplifier
       Arduino Nano adaptor board
-
+------------------------------------------------
 ```
