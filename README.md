@@ -50,4 +50,12 @@
    Similar version to this one on youtube:
    https://www.youtube.com/watch?v=wUJ-r6xru18
 ------------------------------------------------
+   *** OPL3 HW MODULE:  (YMF262-M)
+
+   Schematics and PCB files
+   (Cadsoft EAGLE 4.16r2):
+
+      YMF262-M OPL3 module + DAC + amplifier
+      Arduino Nano adaptor board
+
 ```
