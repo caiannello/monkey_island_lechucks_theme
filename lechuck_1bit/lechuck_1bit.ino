@@ -9,13 +9,9 @@
    To play, hook a piezo speaker between ground and the 
    digital pin defined below:
 
-   2025-04-24
-
-   To save a couple KN of ROM, the table datatype was changed from 
-   floats to uint16's. 
-
-   (Should sound the same, since tone() and delay() functions take integers.)
-   
+   2025-04-24 - To save a couple KB of ROM, the table datatype was changed 
+    from floats to uint16's. (Should sound the same, since tone() and delay()
+    functions take integers.)  
 */
 
 #define OUTPUT_PIN 8
