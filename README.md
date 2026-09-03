@@ -4,7 +4,7 @@
    Original music from the classic LucasFilm Game
    Composed by Michael Z. Land
 --------------------------------------------------
-   *** 1-bif (ARDUINO BEEPER VERSION):
+   *** 1-bit (ARDUINO BEEPER VERSION):
    
    Adapted to Arduino from PC speaker version by 
    Craig Iannello (caiannello AT google mail) 
