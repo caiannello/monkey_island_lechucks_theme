@@ -4,7 +4,7 @@
    Original music from the classic LucasFilm Game
    Composed by Michael Z. Land
 --------------------------------------------------
-   *** ARDUINO BEEPER VERSION:
+   *** 1-bif (ARDUINO BEEPER VERSION):
    
    Adapted to Arduino from PC speaker version by 
    Craig Iannello (caiannello AT google mail) 
@@ -49,13 +49,5 @@
    
    Similar version to this one on youtube:
    https://www.youtube.com/watch?v=wUJ-r6xru18
-------------------------------------------------
-   *** OPL3 HW MODULE:  (YMF262-M)
-
-   Schematics and PCB files
-   (Cadsoft EAGLE 4.16r2):
-
-      YMF262-M OPL3 module + DAC + amplifier
-      Arduino Nano adaptor board
 ------------------------------------------------
 ```
